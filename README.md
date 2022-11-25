@@ -1,4 +1,4 @@
-# EF_DbFirst_LINQ
+# DbFirst_LINQ
 
 Для работы с существующей БД нам надо добавить два пакета:
 ![154790010-1e4b7d69-0d2e-40e4-9f79-05ca22674ac5](https://user-images.githubusercontent.com/86431195/187018726-49531467-e334-4569-91b3-404414eafeb8.png)
